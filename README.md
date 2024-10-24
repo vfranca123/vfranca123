@@ -1,6 +1,6 @@
 # Opa meu nome é Vitor
 
-[![L30-R1B's GitHub stats](https://github-readme-stats.vercel.app/api?username=vfranca12&show_icons=true&theme=radical)](https://github.com/vfranca123/github-readme-stats)
+[![vfranca123's GitHub stats](https://github-readme-stats.vercel.app/api?username=vfranca12&show_icons=true&theme=radical)](https://github.com/vfranca123/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vfranca123&layout=compact&theme=radical)](https://github.com/vfranca123/github-readme-stats)
 ## Esses são alguns dos meus projetos
 - [Gestão_de_loja/site](https://github.com/vfranca123/Site_exemplo)
