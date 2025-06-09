@@ -15,6 +15,7 @@
 - Professor de informatica Projeto Byte Maluquinho
 - Desenvolvedor Front end freelancer 
 - Iniciação cientifica "Inovação com pesquisa e desenvolvimento de plataformas centradas na Web" UFSJ
+- Estagiario LRI "Laboratorio de redes inteligentes" em desenvolvimento de software
 ## Contatos
 - Email: vitorferreirafranca@gmail.com
 - Instagram : [Meu Instagram](https://www.instagram.com/vitor_franca._._/)
